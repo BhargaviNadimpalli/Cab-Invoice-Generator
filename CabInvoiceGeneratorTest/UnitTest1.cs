@@ -51,5 +51,20 @@ namespace CabInvoiceGeneratorTest
             //Asserting Values
             Assert.AreEqual(expectedSummary, summary);
         }
+        [Test]
+        public void GivenUserIdUsingInvoivceServiceShouldReturnInvoiceSummary()
+        {
+            //Creating Instance of Invoice Generator  For Normal Ride
+            invoiceGenerator = new InvoiceGenerator(RideType.NORMAL);
+            Ride[] rides = { new Ride(2.0, 5), new Ride(0.1, 1) };
+
+            //Generating Summary for Rides For Particular UserId
+            invoiceGenerator.AddRides("2000", rides);
+            InvoiceSummary summary = invoiceGenerator.GetInvoiceSummary("2000");
+            InvoiceSummary expectedSummary = new InvoiceSummary(2, 30.0, "2000");
+
+            //Asserting Values
+            Assert.AreEqual(expectedSummary, summary);
+        }
     }
 }

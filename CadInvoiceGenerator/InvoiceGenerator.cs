@@ -100,7 +100,7 @@ namespace CadInvoiceGenerator
             }
         }
 
-        public InvoiceSummary GetInvoiceSummary(string userId)
+        public InvoiceSummary GetInvoiceSummary(string userId)  
         {
             try
             {
