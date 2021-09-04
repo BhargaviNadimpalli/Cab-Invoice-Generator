@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\CadInvoiceGenerator\CadInvoiceGenerator\bin\Debug\netcoreapp3.1\CadInvoiceGenerator.exe
+C:\Users\HP\source\repos\CadInvoiceGenerator\CadInvoiceGenerator\bin\Debug\netcoreapp3.1\CadInvoiceGenerator.deps.json
+C:\Users\HP\source\repos\CadInvoiceGenerator\CadInvoiceGenerator\bin\Debug\netcoreapp3.1\CadInvoiceGenerator.runtimeconfig.json
+C:\Users\HP\source\repos\CadInvoiceGenerator\CadInvoiceGenerator\bin\Debug\netcoreapp3.1\CadInvoiceGenerator.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CadInvoiceGenerator\CadInvoiceGenerator\bin\Debug\netcoreapp3.1\CadInvoiceGenerator.dll
+C:\Users\HP\source\repos\CadInvoiceGenerator\CadInvoiceGenerator\bin\Debug\netcoreapp3.1\CadInvoiceGenerator.pdb
+C:\Users\HP\source\repos\CadInvoiceGenerator\CadInvoiceGenerator\obj\Debug\netcoreapp3.1\CadInvoiceGenerator.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CadInvoiceGenerator\CadInvoiceGenerator\obj\Debug\netcoreapp3.1\CadInvoiceGenerator.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CadInvoiceGenerator\CadInvoiceGenerator\obj\Debug\netcoreapp3.1\CadInvoiceGenerator.AssemblyInfo.cs
+C:\Users\HP\source\repos\CadInvoiceGenerator\CadInvoiceGenerator\obj\Debug\netcoreapp3.1\CadInvoiceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CadInvoiceGenerator\CadInvoiceGenerator\obj\Debug\netcoreapp3.1\CadInvoiceGenerator.dll
+C:\Users\HP\source\repos\CadInvoiceGenerator\CadInvoiceGenerator\obj\Debug\netcoreapp3.1\CadInvoiceGenerator.pdb
+C:\Users\HP\source\repos\CadInvoiceGenerator\CadInvoiceGenerator\obj\Debug\netcoreapp3.1\CadInvoiceGenerator.genruntimeconfig.cache
